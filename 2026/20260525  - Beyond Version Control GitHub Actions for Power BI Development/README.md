@@ -1,5 +1,6 @@
 # Beyond Version Control: GitHub Actions for Power BI Development
 Date: May 25, 2026
+Presenter: Daniel Patkos 
 User Group: Edmonton Microsoft Data Professionals (EDMData)
 
 ## Session Overview
@@ -17,5 +18,4 @@ This session includes hands-on examples and a live demo, providing actionable st
 Understanding of GitHub terminology (branch, commit, Pull Request) and PBIP is required.
 
 ## Resources
-* Presentation: TBD
-
+* Presentation: [Beyond Version Control](./Beyond%20version%20Control%20-%20Daniel%20Patkos%20-%20Edmonton%20Data%20Group%202026.pdf)
